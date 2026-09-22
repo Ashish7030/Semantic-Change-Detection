@@ -1,0 +1,7 @@
+Method,English,German,Latin,Swedish,Macro-average
+Word2Vec + Procrustes,0.402,0.729,0.361,0.573,0.516
+BERT + Averaging,0.334,0.691,0.427,0.070,0.380
+Word2Vec + BERT,0.367,0.777,0.441,0.256,0.460
+RoBERTa + K-Means + JSD,0.113,0.710,0.551,0.203,0.394
+RoBERTa + AMD,0.425,0.501,-0.116,0.478,0.322
+RoBERTa + SAMD,0.476,0.546,0.059,0.439,0.380
